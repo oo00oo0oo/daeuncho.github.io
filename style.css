@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.pfl {
+    width: 80vw;
+    max-width: 1000px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Poppins", Verdana, sans-serif;
+    height: 120vh;
+}
+
+.pfl_img{
+    width: 150px;
+    height: 150px;
+    padding: 30px 0px;
+}
+
+.pfl_name{
+    font-size: 30px;
+    padding: 10px 0px;
+}
+
+.pfl_job{
+    font-size: 18px;
+    padding: 10px 0px;
+    color:rgba(0, 0, 0, 0.515)
+}
+
+
+.pfl_boutme {
+    width: 600px;
+}
+
+.pfl_boutme_boutme, 
+.pfl_contact_contact{
+    font-size: 25px;
+}
+  
+
+.pfl_boutme_desc{
+    background-color: rgba(0, 0, 0, 0.155);
+    padding: 35px;
+    line-height: 35px;
+    font-size: 18px;
+}
+
+.pfl_contact{
+    width: 600px;
+}
+
+.pfl_contact_desc{
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+.margin{
+    margin-top: 10px;
+}
